@@ -29,12 +29,6 @@ Along with your code repository, you must submit a short paragraph (3-5 sentence
 
 > **Need Inspiration?** Check out the [Top 25 80s Video Games (IMDb)](https://www.imdb.com/list/ls044827639/) or browse articles and emulated games at [Free80sArcade.com](https://www.free80sarcade.com/).
 
-## 🎮 Bonus Challenge (+10 Points)
-
-Take it to the next level by implementing **Controller Support**! Use the browser's Gamepad API (or p5play's built-in controller functions) so players can ditch the keyboard and use a USB or Bluetooth controller to play your game, just like a classic console.
-
----
-
 ## 💯 Scoring Rubric
 
 | Category | Excellent (20 pts) | Proficient (15 pts) | Developing (10 pts) | Needs Improvement (5 pts) |
