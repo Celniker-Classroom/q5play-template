@@ -17,7 +17,5 @@
         "workbench.view.explorer": false
       }
     }
-  },
-  // Uses the VS Code CLI to open your specific assignment file on startup
-  "postAttachCommand": "code AssignmentREADME.md"
+  }
 }
